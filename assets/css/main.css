@@ -2469,7 +2469,7 @@ input, select, textarea {
 	}
 
 	input[type="radio"] + label:before {
-		border-radius: 100%;
+		/* border-radius: 100%; */
 	}
 
 	::-webkit-input-placeholder {
@@ -2970,12 +2970,12 @@ input, select, textarea {
 			}
 
 			ul.faces li .image {
-				border-radius: 100%;
+				/* border-radius: 100%; */
 				margin: 0 0 1.5rem 0;
 			}
 
 				ul.faces li .image img {
-					border-radius: 100%;
+					/* border-radius: 100%; */
 					width: 8rem;
 				}
 
