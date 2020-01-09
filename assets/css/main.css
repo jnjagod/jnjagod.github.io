@@ -4286,7 +4286,7 @@ input, select, textarea {
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/mountains.jpg");
+		background-image: url("../../images/redwoods.jpg");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center;
@@ -4298,7 +4298,7 @@ input, select, textarea {
 	}
 
 		#banner > .content {
-			background-color: rgba(158, 197, 181, 0.562);
+			background-color: rgba(158, 197, 181, 0.762);
 			color: #ffffff;
 			-moz-transition: -moz-transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 			-webkit-transition: -webkit-transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
